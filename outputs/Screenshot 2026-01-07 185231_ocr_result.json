@@ -1,0 +1,12 @@
+{
+  "image": "test_images\\Screenshot 2026-01-07 185231.png",
+  "text": "",
+  "confidence": 0.0,
+  "structured_data": {
+    "raw_text": "333",
+    "serial_numbers": [],
+    "dates": [],
+    "weights": [],
+    "dimensions": []
+  }
+}

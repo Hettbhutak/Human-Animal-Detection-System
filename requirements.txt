@@ -1,0 +1,11 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+streamlit>=1.28.0
+matplotlib>=3.7.0
+
+# Note: You also need to install Tesseract OCR engine
+# Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki
+# Linux: sudo apt-get install tesseract-ocr
+# Mac: brew install tesseract
