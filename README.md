@@ -1,5 +1,8 @@
 # Human & Animal Detection and Industrial OCR System
 
+**Author:** Het Bhutak  
+**Email:** hetbhutak@gmail.com
+
 This workspace contains two complete computer vision systems:
 
 1. **Human & Animal Detection in Videos**  
