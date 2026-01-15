@@ -147,7 +147,7 @@ python Part2/ocr_system_part_b.py
 
 ## Outputs
 
-- **Annotated Videos**: `outputs/annotated_<video_name>.mp4`
+- **Annotated Videos**: outputs/annotated_test.mp4
 - **OCR Results**: `Part2/outputs/<image_name>_ocr_result.json`
 - **Annotated OCR Images**: `Part2/outputs/<image_name>_annotated.jpg`
 
