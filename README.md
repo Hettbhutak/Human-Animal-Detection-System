@@ -147,9 +147,12 @@ python Part2/ocr_system_part_b.py
 
 ## Outputs
 
-- **Annotated Videos**: outputs/annotated_test.mp4
+- **Annotated Videos**: `outputs/annotated_test.mp4` 
 - **OCR Results**: `Part2/outputs/<image_name>_ocr_result.json`
 - **Annotated OCR Images**: `Part2/outputs/<image_name>_annotated.jpg`
+- ****<img width="862" height="768" alt="image" src="https://github.com/user-attachments/assets/09af1611-b007-48c8-ab0d-3b06473d3968" />
+- ****<img width="771" height="750" alt="image" src="https://github.com/user-attachments/assets/1ed6d784-d34c-46c4-b666-d8d5f1cd0d11" />
+
 
 ---
 
