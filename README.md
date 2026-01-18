@@ -156,15 +156,6 @@ python Part2/ocr_system_part_b.py
 
 ---
 
-## References
-
-- [YOLOv5 Format](https://docs.ultralytics.com/datasets/yolo/)
-- [Roboflow Dataset](https://universe.roboflow.com/work-0kted/human-and-animal-detection)
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-
----
-
 ## Notes
 
 - For best results, use clear, high-resolution videos/images.
